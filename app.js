@@ -54,8 +54,8 @@ app.post("/signup.ejs", function(req,res){
   console.log(enteredusername);
   console.log(enteredpassword);
   const cred2  = new Credentials({
-    Username : "saireddy",
-    password : "sai_33333",
+    Username : "demo123",
+    password : "demo123",
     marksheet : "https://i.ibb.co/7R4zt6k/saireddy1.png",
     transfercertificate : "https://i.ibb.co/vsGr8kk/Transfer-Certificate.jpg",
     Bonafide : "https://i.ibb.co/hC0r4MN/Bonafide.jpg"
